@@ -39,5 +39,3 @@ I focus on Python backend development with Django and Django REST Framework. My 
 ## Contact
 
 GitHub: [@jonibekio](https://github.com/jonibekio)
-
-> This draft lists only public repositories. Private projects are intentionally omitted. Contact details beyond GitHub were not available to include.
